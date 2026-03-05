@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+selenium
+scikit-learn
+joblib
+webdriver-manager

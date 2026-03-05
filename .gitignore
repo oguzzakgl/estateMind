@@ -1,0 +1,26 @@
+# Python geçici dosyaları
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Streamlit dosyaları
+.streamlit/
+
+# Sanal ortam (Virtual Environment) klasörü
+venv/
+env/
+.env
+
+# Log dosyaları
+*.log
+
+# Veri ve Model dosyaları (Büyük dosyalar GitHub'a yüklenmez)
+data/raw_houses.csv
+data/processed_houses.csv
+models/*.pkl
+
+# Diğer
+debug/
+*.png
+.DS_Store
