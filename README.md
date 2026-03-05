@@ -47,4 +47,4 @@ python main.py
 - `models/`: Eğitilmiş yapay zeka dosyaları.
 
 ---
-*Bu proje Python öğrenme sürecinde bir portfolyo projesi olarak geliştirilmiştir.* 😊
+
